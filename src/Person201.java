@@ -27,8 +27,8 @@ public class Person201 {
         // default constructor
     public Person201() {
         this.name = "Owen";
-        this.latitude = 35.9956;   // Durham latitude
-        this.longitude = -78.9002; // Durham longitude
+        this.latitude = 35.99;   // Durham latitude
+        this.longitude = 78.90; // Durham longitude
         this.eatery = "Dain's Place";
     }
 
