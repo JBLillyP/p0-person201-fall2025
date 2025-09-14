@@ -13,7 +13,7 @@ public class Person201Demo {
         Person201 a = new Person201("claire",37.8044,-122.2712,"Vin Rouge");
         Person201 b = new Person201("ricardo",-1.2921, 36.8219,"Elmo's Diner");
         Person201 c = new Person201();
-        Person201 s = new Person201("Ethan", 40.6782, -73.0442, "Monuts");
+        Person201 s = new Person201("Ethan", 40.68, 73.04, "Monuts");
 
         Person201[] data = {a,b,c,s};
 
